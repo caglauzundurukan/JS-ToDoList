@@ -69,6 +69,8 @@ function elemanEkle() {
 }
 }   
 
+//ARKAPLANDAKI KAR TANESI
+
 function karTanesi() {
 	// <i> elemanı oluştur
 	var karTanesi = document.createElement('i');
